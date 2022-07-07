@@ -1,0 +1,39 @@
+Around Web Features:
+    1. login <-> persistent login
+    2. logout
+    3. register
+    4. display posts: images / videos
+    5. search by all / keyword / user
+    6. create a new post: image / videos
+
+Pages:
+    1. login
+    2. register
+    3. Home
+
+UI Components:
+    1. header (TopBar)
+    2. login
+    3. register
+    4. home
+        4.1 search
+        4.2 display(list)
+        4.3 upload
+
+Data Communication:
+
+                        App         state: isLoggedIn
+            
+            TopBar               Main
+        
+                        login  Register  Home 
+
+Sibling and sibling cannot do data communication, only LCA works. (APP)
+
+login got token from sever
+
+Navigating pages(components) using react-router
+
+<Link>
+history
+<Redirect>
