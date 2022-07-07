@@ -3,7 +3,7 @@ A web application used to share photos and videos with others, built with Golang
 
 ## Project Screen Shots
 
-#### [Demo](https://user-images.githubusercontent.com/74288362/177889078-5593704c-cc12-4cee-8c2b-668c11bfdced.gif)   
+![Demo](https://user-images.githubusercontent.com/74288362/177889078-5593704c-cc12-4cee-8c2b-668c11bfdced.gif)   
 
 [ PRETEND SCREEN SHOT IS HERE ]
 
